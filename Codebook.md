@@ -26,11 +26,11 @@ The following files were extracted:
 * Save data set.
 
 ## VARIABLES
-[1] "Subject" - Subject in study, coded numerically.                        
-[2] "Activity" - Activity performed by subject associated with subsequent measurements.  Activities include Walking, Walking Upstairs, Waling Downstairs, Sitting, Standing and Laying.                         
-[3] "tBodyAcc-mean()-X"              
-[4] "tBodyAcc-mean()-Y"              
-[5] "tBodyAcc-mean()-Z"              
+1. "Subject" - Subject in study, coded numerically.                        
+2. "Activity" - Activity performed by subject associated with subsequent measurements.  Activities include Walking, Walking Upstairs, Waling Downstairs, Sitting, Standing and Laying.                         
+3. "tBodyAcc-mean()-X"              
+4. "tBodyAcc-mean()-Y"              
+5. "tBodyAcc-mean()-Z"              
 [6] "tBodyAcc-std()-X"               
 [7] "tBodyAcc-std()-Y"               
 [8] "tBodyAcc-std()-Z"               
